@@ -3,7 +3,7 @@
 [![AWS](https://img.shields.io/badge/AWS-CloudWatch%20%7C%20SNS-orange?logo=amazonaws)](https://aws.amazon.com)
 [![Monitoring](https://img.shields.io/badge/Monitoring-CloudWatch-pink)](https://aws.amazon.com/cloudwatch)
 [![Notifications](https://img.shields.io/badge/Notifications-SNS-blue)](https://aws.amazon.com/sns)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+
 
 A serverless cost monitoring and alerting system built on AWS, using CloudWatch billing alarms, SNS email notifications, and a custom dashboard to track spend and resource usage in real time — without any EC2 instances or ongoing infrastructure cost.
 
